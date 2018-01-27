@@ -1,0 +1,10 @@
+
+* Kalman Experiments
+
+- For lack of a better name, this will stay for now.
+
+- This is a repo for experiments with Kalman filters.
+
+- This effort is Free Software.  It is licensed under the GPL v3 or later.
+
+- We will be using GSL where possible.
